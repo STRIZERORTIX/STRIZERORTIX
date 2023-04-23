@@ -57,6 +57,6 @@
 <br>
 
 
-[cognizance]: Black Technology LinkedIn Banner
+[cognizance]:https://cognizance-amrita.in/
 [Ln]: https://www.linkedin.com/in/strizerortix/
 [gmail]: mailto:abhi.varadan@gmail.com
