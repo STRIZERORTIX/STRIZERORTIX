@@ -1,19 +1,16 @@
-![](/assets/Profile%20Banner.png)
+![](/assets/Black Technology LinkedIn Banner.png)
 
-### Currently A Student, UI/UX Designer, Full Stack Developer, A Graphic Designer!
+### A Pre-Final Yr Student, UI/UX Designer, Full Stack Developer!
 
 - 💥 <i><b>On A Continuous Thirst For Knowledge!</b></i>
-- 🔮 <i><b>Currently working on UI Designing</b></i>
 - 📰 <i><b>I’m looking forward to collaborate with other designers and developers</b></i>
-- ⚡ <i><b>Open Source Mentor at the [Cognizance-Amrita University][cognizance]  </b></i>
+- ⚡ <i><b>Ex Open Source Co-ordinator @ the [Cognizance-Amrita University][cognizance]  </b></i>
 
 <hr>
 <br>
 
 ## Connect with me:
 
-[<img width="40px" style="margin-right:20px" src="assets/instagram.png" />][instagram]
-[<img width="40px" style="margin-right:20px" src="assets/twitter.png" />][twitter]
 [<img width="40px" style="margin-right:20px" src="assets/gmail.png" />][gmail]
 [<img width="40px" style="margin-right:20px" src="assets/linkedin.png" />][Ln]
 
@@ -60,9 +57,6 @@
 <br>
 
 
-[twitter]: https://twitter.com/Strizer_Ortix
-[cognizance]: https://github.com/cognizance-amrita
-[instagram]: https://www.instagram.com/strizer_ortix/
-[devpost]: https://devpost.com/STRIZERORTIX?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
+[cognizance]: Black Technology LinkedIn Banner
 [Ln]: https://www.linkedin.com/in/strizerortix/
 [gmail]: mailto:abhi.varadan@gmail.com
