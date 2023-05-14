@@ -1,4 +1,4 @@
-![](/assets/LinkedInBanner.png)
+![](/assets/Banner.png)
 
 ### A Pre-Final Yr Student, UI/UX Designer, Full Stack Developer!
 
