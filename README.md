@@ -1,6 +1,6 @@
 ![](/assets/Banner.png)
 
-### A Final Year Student, Visual Designer, MERN Developer!
+## A Final Year Student, Visual Designer, MERN Developer!
 
 - 📰 <i><b>I’m looking forward to collaborate with other designers and developers</b></i>
 - ⚡ <i><b>Ex Open Source Co-ordinator @ the [Cognizance-Amrita University][cognizance]  </b></i>
@@ -10,7 +10,7 @@
 
 <!-- SKILLS -->
 
-### Skills
+## Skills
 
 ### Languages
 [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
@@ -43,15 +43,25 @@
 
 <br>
 <br>
-<br>    
-<br>
 
+## :movie_camera: Video</summary>
+  
+<br/>
+
+<video width="320" height="240" controls autoplay>
+  <source src="assets/unwrapped-STRIZERORTIX.mp4" type="video/mp4">
+</video>
+
+<br>
+<br>
 
 <p>
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="STRIZERORTIX's Top Languages" style="margin:50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STRIZERORTIX&langs_count=5&theme=midnight-purple&hide_border=true/"></a>
 </p>
 </span>
 <br>
+
+
 
 
 [cognizance]:https://cognizance-amrita.in/
