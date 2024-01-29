@@ -8,21 +8,39 @@
 <hr>
 <br>
 
-## Area Of Expertise:
+<!-- SKILLS -->
+<details>
+  <summary>:gear:&nbsp;&nbsp;<b>Skills</b></summary>
 
-<img align="left" alt="HTML5" width="40px" style="margin:10px"  src="assets/html-5.png" />
-<img align="left" alt="CSS3" width="40px" style="margin:10px"  src="assets/css.png" />
-<img align="left" alt="JavaScript" width="40px" style="margin:10px"  src="assets/js.png" />
-<img align="left" alt="React" width="40px" style="margin:10px"  src="assets/reactjs.png" />
-<img align="left" alt="Node.js" width="40px" style="margin:10px"  src="assets/nodejs.png" />
-<img align="left" alt="MySQL" width="40px" style="margin:10px"  src="assets/mysql.png" />
-<img align="left" alt="Java" width="40px" style="margin:10px"  src="assets/java.png" />
-<img align="left" alt="photoshop" width="40px" style="margin:10px"  src="assets/photoshop.png" />
-<img align="left" alt="illustrator" width="40px" style="margin:10px"  src="assets/illustrator.png" />
-<img align="left" alt="xd" width="40px" style="margin:10px"  src="assets/xd.png" />
-<img align="left" alt="Dreamweaver" width="40px" style="margin:10px"  src="assets/Dw.svg" />
-<img align="left" alt="premeire pro" width="40px" style="margin:10px"  src="assets/premiere-pro.png" />
-<img align="left" alt="Bootstrap" width="40px" style="margin:10px"  src="assets/bootstrap.png" />
+### Languages
+[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
+[<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">](https://en.wikipedia.org/wiki/C_(programming_language))&nbsp;
+[<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">](https://en.wikipedia.org/wiki/C%2B%2B)&nbsp;
+[<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">](https://www.python.org/)&nbsp; 
+[<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">](https://www.java.com/en/)&nbsp;
+[<img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white">](https://www.haskell.org/)
+
+### Databases 
+[<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">](https://www.mysql.com/)&nbsp;
+[<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">](https://www.mongodb.com/)
+
+### Frameworks
+[<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">](https://nodejs.org/en/)&nbsp;
+[<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">](https://expressjs.com/)&nbsp;
+[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">](https://reactjs.org/)&nbsp;
+[<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">](https://www.djangoproject.com/)&nbsp;  
+[<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">](https://flask.palletsprojects.com/)
+
+### Tools
+[<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">](https://www.tensorflow.org/)
+[<img src="https://img.shields.io/badge/apache_hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white">](https://hadoop.apache.org/) 
+  
+### Design
+[<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">](https://www.figma.com/)&nbsp; 
+[<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">](https://www.canva.com/)&nbsp;
+[<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">](https://www.adobe.com/products/xd.html) 
+
+</details>
 
 <br>
 <br>
