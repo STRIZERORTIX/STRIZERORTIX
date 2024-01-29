@@ -9,8 +9,8 @@
 <br>
 
 <!-- SKILLS -->
-<details>
-  <summary>:gear:&nbsp;&nbsp;<b>Skills</b></summary>
+
+<summary>:gear:&nbsp;&nbsp;<b>Skills</b></summary>
 
 ### Languages
 [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
@@ -40,7 +40,6 @@
 [<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">](https://www.canva.com/)&nbsp;
 [<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">](https://www.adobe.com/products/xd.html) 
 
-</details>
 
 <br>
 <br>
