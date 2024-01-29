@@ -49,7 +49,7 @@
 <br/>
 
 <video width="320" height="240" controls autoplay>
-  <source src="https://github.com/STRIZERORTIX/STRIZERORTIX/blob/071a82172ec85dcea9e352cceec598d7e7aad1fd/assets/unwrapped-STRIZERORTIX.mp4" type="video/mp4">
+  <source src="https://drive.google.com/file/d/191C4jenfbnQVB4lhrVIxM-ttd8SBhoiN/view?usp=sharing" type="video/mp4">
 </video>
 
 <br>
